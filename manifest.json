@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Bookmark Analyzer & Opener",
+  "name": "Open All Bookmarks",
   "version": "0.24",
-  "description": "Analyzes bookmark structure and recursively opens windows and tabs.",
+  "description": "Accepts bookmark file and recursively opens windows and tabs.",
   "permissions": [
     "tabs",
     "tabGroups",
